@@ -4,7 +4,7 @@ public class JunitTesting {
 
 	public int square(int x){
 		System.out.println("In Square Method");
-		System.out.println("Checking");
+		
 		return x*x;
 	}
 	
