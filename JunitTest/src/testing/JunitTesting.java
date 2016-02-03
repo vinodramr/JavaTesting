@@ -8,6 +8,7 @@ public class JunitTesting {
 	}
 	
 	public int countLetters(String word){
+		System.out.println("In Count Method");
 		 return word.length();
 	}
 	
